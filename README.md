@@ -1,5 +1,4 @@
 - ✨ Hi, I’m @Jibpreeya
-- 💞️ I’m interested in travel,food,ecercise.
 - 🔍️ How to reach me  email:Preeyawat.inh@gmail.com
 
 <!---
