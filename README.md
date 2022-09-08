@@ -1,24 +1,29 @@
-## Hi There! I'm Preeyawat <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<h1 align="center">Hi, I'm Preeyawat <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibpreeya&label=Profile%20views&color=0e75b6&style=flat" alt="jibpreeya" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=jibpreeya&label=Profile%20views&color=0e75b6&style=flat" alt="jibpreeya" />
+</p>
+<p align="center">
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Preeywat.inh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preeyawat-inh)  [![Mail Badge](https://img.shields.io/badge/-Preeyawat-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:preeyawat.inh@gmail.com)
+
+</p>
 
 
     I'm Preeyawat Inhangwa or you can call me " Jib ". I'm a new learner as a Full Stack Developer. I'm always willing to learn new skills .
 
 
 
-- 💻 All of my projects are available at [https://preeyawat-portfolio.vercel.app/](https://preeyawat-portfolio.vercel.app/)
-
-- 📫 How to reach me **preeyawat.inh@gmail.com**
-
-- 📄 Know about my experiences [https://preeyawat-portfolio.vercel.app/Preeyawat_resume.pdf](https://preeyawat-portfolio.vercel.app/Preeyawat_resume.pdf)
-
-- ⚡ Fun fact **I am a lawyer.**
-
-<br />
+<hr/>
 
 
-## Languages and Tools:
+<h2 align="center">⚒️Languages and Tools:</h2>
+<br/>
+<div align="center">
+
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&)
 ![VITE Badge](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -33,16 +38,14 @@
 
 
 
+<br>
+<hr />
 
 
+### 👩🏻‍💻GITHUB STATS:
+<br/>
 
-<br />
-<br />
-
-
-### GITHUB STATS:
-
-![Preeyawat's github stats](https://github-readme-stats.vercel.app/api?username=Jibpreeya&count_private=true&theme=solarized-light&show_icons=true)
+![Preeyawat's github stats](https://github-readme-stats.vercel.app/api?username=Jibpreeya&count_private=true&theme=aura&show_icons=true)
 
 
 
