@@ -21,8 +21,8 @@
 
 
 <h2 align="center">⚒️Languages and Tools:</h2>
-<br/>
-<div align="center">
+
+
 
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&)
@@ -41,8 +41,8 @@
 <br>
 <hr />
 
+<h2 align="center">👩🏻‍💻GITHUB STATS:</h2>
 
-### 👩🏻‍💻GITHUB STATS:
 <br/>
 
 ![Preeyawat's github stats](https://github-readme-stats.vercel.app/api?username=Jibpreeya&count_private=true&theme=aura&show_icons=true)
